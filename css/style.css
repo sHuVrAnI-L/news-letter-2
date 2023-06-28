@@ -1,0 +1,156 @@
+body{
+margin:0;
+padding:0;
+}
+p,div,ul,li,a,h1,h2,h3,h4,h5,h6{
+margin:0;
+padding:0;
+}
+.container{
+width:970px;
+margin:0 auto;
+}
+.contact{
+width:100%;
+float:left;
+background-color:grey;
+}
+.contact ul{
+list-style-type:none;
+}
+.contact ul li{
+float:left;
+padding:5px 25px;
+font-family:high-tower-text;
+font-size:15px;
+color:#ffffff;	
+}
+.menu-part{
+width:100%;
+float:left;
+}
+.logo-section{
+width:30%;
+float:left;
+}
+.logo-section img {
+width: 100px;
+height: 80px;
+}
+.nav-part {
+width: 60%;
+float: right;
+margin-top: 15px;
+border-bottom: groove;
+}
+.nav-part ul{
+list-style-type:none;
+}
+.nav-part ul li{
+float:left;
+padding:5px 10px;
+}
+.nav-part ul li:hover{
+border-bottom-color: cornflowerblue;
+}
+.nav-part ul li a{
+text-decoration:none;
+color:#818181;
+font-size:15px;
+font-wieght:bold;
+}
+.banner-part{
+width:100%;
+float:left;
+}
+.banner-part img{
+width:100%;
+height:500px;
+}
+.about us{
+width:100%;
+float:left;
+}
+.photo{
+width:40%;
+float:left;
+}
+.photo img{
+width:330px;
+height:260px;
+padding:10px 0px;
+}
+.about-para{
+width:60%;
+float:right;
+}
+.about-para p{
+font-size:20px;
+color:darkgrey;
+padding:35px 0px;
+}
+.about-para h3{
+color:grey;
+font-weight:bold;
+}
+.lower-part {
+width: 100%;
+float: left;
+background: lavender;
+padding: 10px 15px;
+}
+.address-bar{
+width:20%;
+float:left;
+}
+.address-bar address{
+color:darkcyan;
+font-size:20px;
+text-align:left;
+color:darkgrey;
+}
+.address-bar a{
+text-decoration:none;
+color:darkcyan;
+}
+.map-part{
+width:40%;
+float:left;
+}
+.icon-bar{
+width:40%;
+float:left;
+}
+.icon-bar p {
+font-size: 20px;
+color: darkgrey;
+}
+.fab, .fa-brands {
+font-family: 'Font Awesome 6 Brands';
+font-weight: 400;
+color: blue;
+}
+.i.fa-brands.fa-facebook-square {
+color: blue;
+font-size: 30px;
+}
+.footer{
+width:100%;
+float:left;
+background-color:grey;
+}
+.footer ul{
+list-style-type:none;
+}
+.footer ul li{
+float:left;
+padding:5px 10px;
+}
+.footer ul li a {
+text-decoration: none;
+color: #ffffff;
+font-size: 15px;
+}
+
+
+
